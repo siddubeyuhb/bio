@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sid Dubey
 - I’m interested in solving problems
 - Currently learning the fundamentals of Machine Learning
+- Curious about all things involving technology
 
 <!---
 siddubeyuhb/siddubeyuhb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
