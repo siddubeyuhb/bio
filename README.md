@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sid Dubey
 - I’m interested in solving problems
-- Currently learning the fundamentals of Machine Learning
 - Curious about all things involving technology
 
 <!---
